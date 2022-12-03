@@ -1,0 +1,12 @@
+WARMUP:
+
+1. Create a vue project called vue_js_warmup, connect to GitHub
+2. Delete all usage of the HelloWorld component in App.vue, then delete the HelloWorld component
+3. Create a new component called FunComponent, use this component in App.vue
+4. In FunComponent, add a button into your HTML section
+5. Add an event listener to this button that will change the background color of the page to blue when clicked
+6. Create a variable called secrets, and set it to be an array of strings
+7. Create a div, section or article that will contain these secrets
+8. Write a loop that will inject a p tag onto the page for each secret.
+9. Add an event listener to each p tag that will change the color of the text to pink when clicked
+  9.1. Note, only the clicked p tag should change color, not all of them.
